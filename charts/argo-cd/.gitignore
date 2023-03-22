@@ -1,0 +1,6 @@
+values
+app-crs
+secrets/.sops.yaml
+secrets/private.key
+secrets/pub.key
+extras
